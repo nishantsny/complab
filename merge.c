@@ -1,4 +1,4 @@
-if(a==test){
+if(a==Nishant){
 print("yes")
 }
 else
